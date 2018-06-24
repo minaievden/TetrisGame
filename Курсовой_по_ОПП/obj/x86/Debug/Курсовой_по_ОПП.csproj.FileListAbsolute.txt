@@ -1,0 +1,25 @@
+C:\Users\Максим\Desktop\Курсовой_по_ОПП\Курсовой_по_ОПП\bin\Debug\Курсовой_по_ОПП.exe
+C:\Users\Максим\Desktop\Курсовой_по_ОПП\Курсовой_по_ОПП\bin\Debug\Курсовой_по_ОПП.pdb
+C:\Users\Максим\Desktop\Курсовой_по_ОПП\Курсовой_по_ОПП\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\Курсовой_по_ОПП\Курсовой_по_ОПП\obj\x86\Debug\Курсовой_по_ОПП.Form1.resources
+C:\Users\Максим\Desktop\Курсовой_по_ОПП\Курсовой_по_ОПП\obj\x86\Debug\Курсовой_по_ОПП.Properties.Resources.resources
+C:\Users\Максим\Desktop\Курсовой_по_ОПП\Курсовой_по_ОПП\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Максим\Desktop\Курсовой_по_ОПП\Курсовой_по_ОПП\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Максим\Desktop\Курсовой_по_ОПП\Курсовой_по_ОПП\obj\x86\Debug\Курсовой_по_ОПП.exe
+C:\Users\Максим\Desktop\Курсовой_по_ОПП\Курсовой_по_ОПП\obj\x86\Debug\Курсовой_по_ОПП.pdb
+C:\Users\HP\Desktop\Новая папка\Курсовой_по_ОПП\Курсовой_по_ОПП\obj\x86\Debug\Курсовой_по_ОПП.exe
+C:\Users\HP\Desktop\Новая папка\Курсовой_по_ОПП\Курсовой_по_ОПП\obj\x86\Debug\Курсовой_по_ОПП.pdb
+C:\Users\HP\Desktop\Новая папка\Курсовой_по_ОПП\Курсовой_по_ОПП\bin\Debug\Курсовой_по_ОПП.exe
+C:\Users\HP\Desktop\Новая папка\Курсовой_по_ОПП\Курсовой_по_ОПП\bin\Debug\Курсовой_по_ОПП.pdb
+C:\Users\HP\Desktop\Новая папка\Курсовой_по_ОПП\Курсовой_по_ОПП\obj\x86\Debug\Курсовой_по_ОПП.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Новая папка\Курсовой_по_ОПП\Курсовой_по_ОПП\obj\x86\Debug\Курсовой_по_ОПП.Form1.resources
+C:\Users\HP\Desktop\Новая папка\Курсовой_по_ОПП\Курсовой_по_ОПП\obj\x86\Debug\Курсовой_по_ОПП.Properties.Resources.resources
+C:\Users\HP\Desktop\Новая папка\Курсовой_по_ОПП\Курсовой_по_ОПП\obj\x86\Debug\Курсовой_по_ОПП.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\ООП\Программа\Курсовой_по_ОПП\obj\x86\Debug\Курсовой_по_ОПП.exe
+C:\Users\HP\Desktop\ООП\Программа\Курсовой_по_ОПП\obj\x86\Debug\Курсовой_по_ОПП.pdb
+C:\Users\HP\Desktop\ООП\Программа\Курсовой_по_ОПП\bin\Debug\Курсовой_по_ОПП.exe
+C:\Users\HP\Desktop\ООП\Программа\Курсовой_по_ОПП\bin\Debug\Курсовой_по_ОПП.pdb
+C:\Users\HP\Desktop\ООП\Программа\Курсовой_по_ОПП\obj\x86\Debug\Курсовой_по_ОПП.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\ООП\Программа\Курсовой_по_ОПП\obj\x86\Debug\Курсовой_по_ОПП.Form1.resources
+C:\Users\HP\Desktop\ООП\Программа\Курсовой_по_ОПП\obj\x86\Debug\Курсовой_по_ОПП.Properties.Resources.resources
+C:\Users\HP\Desktop\ООП\Программа\Курсовой_по_ОПП\obj\x86\Debug\Курсовой_по_ОПП.csproj.GenerateResource.Cache
